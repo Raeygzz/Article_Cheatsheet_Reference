@@ -1,2 +1,8 @@
-# Article_Cheatsheet_Reference
-This repo is made for reference to cheatsheeet, article and frequently needed catchy notes and articles.
+# Article (Cheatsheet / Reference) wiki!
+
+This repo is made for links, references, articles, resources, cheat sheets, and frequently needed catchy notes and resources.
+
+The topics are listed below:
+
+1. Flexbox revision and cheatsheet
+2. 
